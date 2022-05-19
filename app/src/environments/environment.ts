@@ -5,6 +5,7 @@
 export const environment = {
   production: false
 };
+export const base_url = 'https://qa2.gim.com.bd/'
 
 /*
  * For easier debugging in development mode, you can import the following file
